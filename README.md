@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
-<h3 align="center">Ex-soviet BJJ tech monk 👨‍💻🥋⚙️</h3>
+<h3 align="center">Data Analyst / Data Engineer</h3>
 
 ---
 
