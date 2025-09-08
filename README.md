@@ -1,32 +1,34 @@
-<h1 align="center">Hi 👋, I'm Danial</h1>
-<h3 align="center">Data Analyst / Data Engineer</h3>
+<h1 align="center">🕵️‍♂️ Danial | Cyber-Intelligence & Data Ops</h1>
+<h3 align="center">Turning data streams into actionable intelligence</h3>
 
 ---
 
-### 🚦 Current Projects
-- 📊 **TRAX** – Traffic Report Automation using Streamlit, MaxCompute, and OpenPyXL
-- 📦 **FastAPI CSV API** – Real-time data delivery from CCTV sources
-- 🧠 **Anomaly Detection** – Faulty camera flagging with statistical baselines
-- 📈 **Power BI Dashboards** – LOS visualizations, hourly breakdowns, KPI tracking
+### 🛰️ Active Operations
+- 📊 **TRAX** – Automated traffic intelligence with Streamlit, MaxCompute & OpenPyXL  
+- 📦 **FastAPI CSV API** – Secure, real-time data pipeline from CCTV endpoints  
+- 🧠 **Anomaly Detection** – Surveillance health monitoring & fault flagging  
+- 📈 **Power BI Dashboards** – Situational awareness: LOS visuals, hourly breakdowns, KPI tracking  
 
 ---
 
-### 🔧 Tech Stack
-**Languages**: Python, SQL, Power Query M  
-**Tools**: Streamlit, FastAPI, OpenPyXL, Matplotlib  
-**Cloud**: MaxCompute, Alibaba OSS, Azure (learning)  
-**Other**: Visum, GIS, Postman, GitHub Actions
+### 🔐 Toolset & Arsenal
+**Languages**: Python 🐍 | SQL | Power Query M  
+**Frameworks**: Streamlit | FastAPI | OpenPyXL | Matplotlib  
+**Cloud / Infra**: Alibaba MaxCompute | OSS | Azure (in training)  
+**Other Assets**: Visum | GIS | Postman | GitHub Actions  
 
 ---
 
-### 🥋 Personal
-- 🎯 Passionate about automation, systems, and edge-case problems
-- 💪 Gym + BJJ + research = balance
-- 🧩 Building traffic systems that actually work
+### 🎯 Mission Profile
+- Focused on **automation, anomaly detection, and edge-case systems**  
+- Trains in **BJJ & strength** 🥋💪 to maintain resilience under pressure  
+- Driven to **design traffic intelligence systems that actually work in the field**  
 
 ---
 
-### 📫 Reach Me
-- ✉️ Email: yourname@email.com
-- 🌐 Website: [yourportfolio.com](https://yourportfolio.com)
-- 🐍 GitHub: [github.com/yourusername](https://github.com/yourusername)
+### 📡 Contact & Channels
+- ✉️ [Email](mailto:yourname@email.com)  
+- 🌐 [Website](https://yourportfolio.com)  
+- 🐍 [GitHub](https://github.com/yourusername)  
+
+---
