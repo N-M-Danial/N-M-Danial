@@ -3,7 +3,7 @@
 
 ---
 
-### Active Operations
+### Operations
 - **TRAX** – Automated traffic intelligence with Streamlit, MaxCompute & OpenPyXL  
 - **FastAPI CSV API** – Secure, real-time data pipeline from CCTV endpoints  
 - **Anomaly Detection** – Surveillance CCTV health monitoring & fault flagging  
@@ -11,7 +11,7 @@
 
 ---
 
-### Toolset & Arsenal
+### Tools
 **Languages**: Python · SQL · Power Query M  
 **Frameworks**: Streamlit · FastAPI · OpenPyXL · Matplotlib  
 **Cloud / Infra**: Alibaba MaxCompute · OSS · Azure (in training)  
@@ -19,7 +19,7 @@
 
 ---
 
-### Mission Profile
+### Mission
 - Focused on **automation, anomaly detection, and edge-case systems**  
 - Driven to **design traffic intelligence systems that perform in real-world conditions**  
 
