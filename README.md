@@ -1,4 +1,4 @@
-<h1 align="center">Nik Danial | Operations Data Scientist</h1>
+<h1 align="center">Nik Danial | Data Scientist | Operations</h1>
 <h3 align="center">Turning data streams into actionable intelligence</h3>
 
 ---
