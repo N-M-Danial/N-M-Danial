@@ -7,7 +7,7 @@
 
 <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/2647fabb-e442-48e4-a3b9-1178f3394093" />
 
-### FlowLab — Network Traffic Intelligence Lab
+### FlowLab (Network Traffic Intelligence Lab)
 
 Interactive corridor-level traffic monitoring platform.
 
@@ -29,11 +29,11 @@ Interactive corridor-level traffic monitoring platform.
 - Outputs predicted V/C ratios & LOS grades
 - Autoregressive hour-by-hour prediction logic
 
-Focus: Operational forecasting, not theoretical modeling.
+Focus: Operational forecasting
 
 ---
 
-### TrafficPulse (formerly AliCrew)
+### TrafficPulse
 
 CCTV health & event monitoring system for traffic operations.
 
@@ -97,18 +97,6 @@ MaxHub reflects a systemized approach to:
 
 ---
 
-### TRAX (Traffic Report Automation eXpert)
-
-Streamlit-based operational report engine:
-
-- MaxCompute querying
-- Excel generation with OpenPyXL
-- Embedded matplotlib charts
-- Multi-sheet structured outputs
-- Designed to eliminate repetitive manual reporting
-
----
-
 ## Technical Stack
 
 **Languages**
@@ -150,10 +138,9 @@ Command Room Systems Engineering
 
 ---
 
-## 📡 Connect
+## Connect
 
-- GitHub: https://github.com/yourusername  
-- Email: yourname@email.com  
-- Portfolio: https://yourportfolio.com  
+- GitHub: https://github.com/N-M-Danial
+- Email: nik.muhammad.danial94@email.com  
 
 ---
