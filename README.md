@@ -1,4 +1,4 @@
-<img width="1310" height="613" alt="image" src="https://github.com/user-attachments/assets/50694d8d-af80-4e4d-86d3-a26bd3cf183d" /><h1 align="center">Nik Danial | Data Scientist | Smart City Systems</h1>
+<h1 align="center">Nik Danial | Data Scientist | Smart City Systems</h1>
 <h3 align="center">Architecting operational traffic analytics infrastructure for real-world command environments</h3>
 
 ---
