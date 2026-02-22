@@ -1,4 +1,4 @@
-<h1 align="center">Nik Danial | Data Scientist | Smart City Systems</h1>
+<img width="1310" height="613" alt="image" src="https://github.com/user-attachments/assets/50694d8d-af80-4e4d-86d3-a26bd3cf183d" /><h1 align="center">Nik Danial | Data Scientist | Smart City Systems</h1>
 <h3 align="center">Architecting operational traffic analytics infrastructure for real-world command environments</h3>
 
 ---
@@ -32,9 +32,8 @@ Interactive corridor-level traffic monitoring platform.
 Focus: Operational forecasting
 
 ---
-<img width="1367" height="818" alt="image" src="https://github.com/user-attachments/assets/15285978-d060-41eb-8150-d51414717c80" />
-<img width="1360" height="815" alt="image" src="https://github.com/user-attachments/assets/0fabfac7-0b98-48fa-b4ec-b13fd88a4eaa" />
-<img width="1364" height="806" alt="image" src="https://github.com/user-attachments/assets/6f6cf3a6-61f3-4fde-86cb-431d22993122" />
+
+<img width="1310" height="613" alt="image" src="https://github.com/user-attachments/assets/b0c8f59c-d390-4b83-911f-7b47472b81dd" />
 
 ### TrafficPulse
 
