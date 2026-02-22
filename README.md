@@ -1,4 +1,4 @@
-<h1 align="center">Nik Danial | Traffic Intelligence Engineer | Smart City Systems</h1>
+<h1 align="center">Nik Danial | Data Scientist | Smart City Systems</h1>
 <h3 align="center">Architecting operational traffic analytics infrastructure for real-world command environments</h3>
 
 ---
