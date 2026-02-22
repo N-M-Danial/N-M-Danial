@@ -5,9 +5,9 @@
 
 ## Core Systems & Platforms
 
-<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/2647fabb-e442-48e4-a3b9-1178f3394093" />
-
 ### FlowLab (Network Traffic Intelligence Lab)
+
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/2647fabb-e442-48e4-a3b9-1178f3394093" />
 
 Interactive corridor-level traffic monitoring platform.
 
@@ -33,9 +33,9 @@ Focus: Operational forecasting
 
 ---
 
-<img width="1310" height="613" alt="image" src="https://github.com/user-attachments/assets/b0c8f59c-d390-4b83-911f-7b47472b81dd" />
-
 ### TrafficPulse
+
+<img width="1310" height="613" alt="image" src="https://github.com/user-attachments/assets/b0c8f59c-d390-4b83-911f-7b47472b81dd" />
 
 CCTV health & event monitoring system for traffic operations.
 
@@ -65,9 +65,9 @@ Designed for:
 
 ---
 
-<img width="880" height="641" alt="image" src="https://github.com/user-attachments/assets/e444d1d3-f798-4966-a412-02139643cb24" />
-
 ### MaxHub Suite (Internal CLI Automation Framework)
+
+<img width="880" height="641" alt="image" src="https://github.com/user-attachments/assets/e444d1d3-f798-4966-a412-02139643cb24" />
 
 Modular CLI-based traffic data automation system.
 
