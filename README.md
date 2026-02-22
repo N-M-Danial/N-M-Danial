@@ -32,6 +32,9 @@ Interactive corridor-level traffic monitoring platform.
 Focus: Operational forecasting
 
 ---
+<img width="1367" height="818" alt="image" src="https://github.com/user-attachments/assets/15285978-d060-41eb-8150-d51414717c80" />
+<img width="1360" height="815" alt="image" src="https://github.com/user-attachments/assets/0fabfac7-0b98-48fa-b4ec-b13fd88a4eaa" />
+<img width="1364" height="806" alt="image" src="https://github.com/user-attachments/assets/6f6cf3a6-61f3-4fde-86cb-431d22993122" />
 
 ### TrafficPulse
 
