@@ -1,5 +1,5 @@
 <h1 align="center">Nik Danial</h1>
-<h3 align="center">Data Scientist · Smart City Traffic Analytics · Real-Time Urban Intelligence Systems</h3>
+<h3 align="center">Data Scientist & Engineer for Urban Mobility & Smart City Operations</h3>
 
 ---
 
