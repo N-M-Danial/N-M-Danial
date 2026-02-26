@@ -13,7 +13,7 @@ This portfolio documents the design, development, and deployment of production-g
 
 ---
 
-### FlowLab — Traffic Intelligence Platform
+### FlowLab (Traffic Intelligence Platform)
 
 <img width="1919" height="912" alt="FlowLab Dashboard" src="https://github.com/user-attachments/assets/dc483cc9-6e7c-4fb2-b61b-320f5e81e4be" />
 
@@ -30,7 +30,7 @@ FlowLab is an operations-grade traffic analytics platform designed for deploymen
 
 ---
 
-### FlowLab AI — Predictive Traffic Forecasting Engine
+### FlowLab AI (Predictive Traffic Forecasting Engine)
 
 <img width="1919" height="774" alt="FlowLab AI Forecasting Interface" src="https://github.com/user-attachments/assets/a8ceaa67-0b3e-4e54-b953-1b039f955a30" />
 
@@ -60,7 +60,7 @@ The system is oriented toward operational forecasting — anticipating congestio
 
 ---
 
-### FlowLab Pulse — CCTV Health & Event Intelligence
+### FlowLab Pulse (CCTV Health & Event Intelligence)
 
 <img width="1310" height="613" alt="FlowLab Pulse Monitoring Interface" src="https://github.com/user-attachments/assets/b0c8f59c-d390-4b83-911f-7b47472b81dd" />
 
@@ -95,7 +95,7 @@ The underlying data infrastructure powering both FlowLab and FlowLab Pulse is a 
 
 ---
 
-## MaxHub Suite — Internal Traffic Report Automation Framework
+## MaxHub Suite (Internal Traffic Report Automation Framework)
 
 <img width="880" height="641" alt="MaxHub CLI Workflow" src="https://github.com/user-attachments/assets/e444d1d3-f798-4966-a412-02139643cb24" />
 
