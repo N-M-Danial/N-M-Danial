@@ -7,7 +7,7 @@
 
 ---
 
-# FlowLab — Traffic Intelligence Platform
+# FlowLab (Traffic Intelligence Platform)
 
 <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/dc483cc9-6e7c-4fb2-b61b-320f5e81e4be" />
 
@@ -28,7 +28,7 @@ Designed for traffic control centers that require clarity, not dashboards for de
 
 ---
 
-## FlowLab AI — Predictive Traffic Engine
+## FlowLab AI (Predictive Traffic Engine)
 
 <img width="1919" height="774" alt="image" src="https://github.com/user-attachments/assets/a8ceaa67-0b3e-4e54-b953-1b039f955a30" />
 
@@ -59,7 +59,7 @@ Focus: Operational forecasting that anticipates congestion before it manifests.
 
 ---
 
-# TrafficPulse — CCTV Health & Event Intelligence
+# FlowLab Pulse (CCTV Health & Event Intelligence)
 
 <img width="1310" height="613" alt="image" src="https://github.com/user-attachments/assets/b0c8f59c-d390-4b83-911f-7b47472b81dd" />
 
@@ -101,7 +101,7 @@ Built for continuous ingestion, not batch experimentation.
 
 ---
 
-# MaxHub Suite — Internal Traffic Report Automation Framework
+# MaxHub Suite (Internal Traffic Report Automation Framework)
 
 <img width="880" height="641" alt="image" src="https://github.com/user-attachments/assets/e444d1d3-f798-4966-a412-02139643cb24" />
 
