@@ -13,11 +13,11 @@ This portfolio documents the design, development, and deployment of production-g
 
 ---
 
-### FlowLab (Traffic Intelligence Platform)
+### NERVE (Traffic Intelligence Platform)
 
-<img width="1919" height="912" alt="FlowLab Dashboard" src="https://github.com/user-attachments/assets/dc483cc9-6e7c-4fb2-b61b-320f5e81e4be" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/38f70d9c-d8c9-4526-843d-aa29c57950b7" />
 
-FlowLab is an operations-grade traffic analytics platform designed for deployment within live traffic control environments. The system ingests raw CCTV-derived vehicle count data and transforms it into structured corridor-level intelligence, enabling operators to make informed, time-sensitive decisions with minimal interpretive overhead.
+NERVE is an operations-grade traffic analytics platform designed for deployment within live traffic control environments. The system ingests raw CCTV-derived vehicle count data and transforms it into structured corridor-level intelligence, enabling operators to make informed, time-sensitive decisions with minimal interpretive overhead.
 
 #### Core Capabilities
 
@@ -30,11 +30,11 @@ FlowLab is an operations-grade traffic analytics platform designed for deploymen
 
 ---
 
-### FlowLab AI (Predictive Traffic Forecasting Engine)
+### NERVE AI (Predictive Traffic Forecasting Engine)
 
-<img width="1919" height="774" alt="FlowLab AI Forecasting Interface" src="https://github.com/user-attachments/assets/a8ceaa67-0b3e-4e54-b953-1b039f955a30" />
+<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/bed55903-2a23-4772-a0d7-b9e3da720819" />
 
-FlowLab AI extends the core platform with a 24-hour ahead forecasting capability, generating road-level traffic volume predictions to support proactive congestion management.
+NERVE AI extends the core platform with a 24-hour ahead forecasting capability, generating road-level traffic volume predictions to support proactive congestion management.
 
 #### Model Architecture
 
@@ -60,11 +60,11 @@ The system is oriented toward operational forecasting — anticipating congestio
 
 ---
 
-### FlowLab Pulse (CCTV Health & Event Intelligence)
+### Pulse (CCTV Health & Event Intelligence)
 
-<img width="1310" height="613" alt="FlowLab Pulse Monitoring Interface" src="https://github.com/user-attachments/assets/b0c8f59c-d390-4b83-911f-7b47472b81dd" />
+<img width="1310" height="613" alt="Pulse Monitoring Interface" src="https://github.com/user-attachments/assets/b0c8f59c-d390-4b83-911f-7b47472b81dd" />
 
-FlowLab Pulse is an operational reliability platform for surveillance-based traffic monitoring infrastructure. It provides command centre operators with continuous visibility into the health, availability, and performance of CCTV-based detection networks.
+Pulse is an operational reliability platform for surveillance-based traffic monitoring infrastructure. It provides command centre operators with continuous visibility into the health, availability, and performance of CCTV-based detection networks.
 
 #### System Functions
 
@@ -78,7 +78,7 @@ FlowLab Pulse is an operational reliability platform for surveillance-based traf
 
 ## Real-Time Streaming Data Architecture
 
-The underlying data infrastructure powering both FlowLab and FlowLab Pulse is a production-ready ingestion and serving pipeline designed for continuous, high-throughput operation.
+The underlying data infrastructure powering both NERVE and Pulse is a production-ready ingestion and serving pipeline designed for continuous, high-throughput operation.
 
 #### Architecture Stack
 
