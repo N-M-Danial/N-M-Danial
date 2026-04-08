@@ -60,11 +60,11 @@ The system is oriented toward operational forecasting — anticipating congestio
 
 ---
 
-### Pulse (CCTV Health & Event Intelligence)
+### AliTrack (CCTV Health & Event Intelligence)
 
 <img width="1310" height="613" alt="Pulse Monitoring Interface" src="https://github.com/user-attachments/assets/b0c8f59c-d390-4b83-911f-7b47472b81dd" />
 
-Pulse is an operational reliability platform for surveillance-based traffic monitoring infrastructure. It provides command centre operators with continuous visibility into the health, availability, and performance of CCTV-based detection networks.
+AliTrack is an operational reliability platform for surveillance-based traffic monitoring infrastructure. It provides command centre operators with continuous visibility into the health, availability, and performance of CCTV-based detection networks.
 
 #### System Functions
 
@@ -78,7 +78,7 @@ Pulse is an operational reliability platform for surveillance-based traffic moni
 
 ## Real-Time Streaming Data Architecture
 
-The underlying data infrastructure powering both NERVE and Pulse is a production-ready ingestion and serving pipeline designed for continuous, high-throughput operation.
+The underlying data infrastructure powering both NERVE and AliTrack is a production-ready ingestion and serving pipeline designed for continuous, high-throughput operation.
 
 #### Architecture Stack
 
@@ -97,7 +97,8 @@ The underlying data infrastructure powering both NERVE and Pulse is a production
 
 ## MaxHub Suite (Internal Traffic Report Automation Framework)
 
-<img width="880" height="641" alt="MaxHub CLI Workflow" src="https://github.com/user-attachments/assets/e444d1d3-f798-4966-a412-02139643cb24" />
+<img width="1347" height="798" alt="image" src="https://github.com/user-attachments/assets/74fb948b-9721-493c-bf0a-9de22943b0f7" />
+
 
 MaxHub is a modular, CLI-based automation framework that standardises traffic data workflows across operations teams. It converts fragmented CCTV export data into validated, submission-ready reports through a structured pipeline of discrete, composable components.
 
